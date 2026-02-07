@@ -1,5 +1,5 @@
-Nina AI Companion: Interactive ESP32 Desktop Pet
-Nina is an interactive, emotive desktop companion powered by an ESP32 and a 2.4" TFT Touch Display. She features a dynamic personality with over 20 random moods, interactive animations (petting, feeding, shaking), and a dedicated "Learning Mode" for educational use.
+Nina AI Companion: Interactive ESP32 Desktop Pet for the CYD Cheap Yellow Display 2.8"
+Nina is an interactive, emotive desktop companion powered by the famous CYD(Cheap Yellow Display). She features a dynamic personality with over 20 random moods, interactive animations (petting, feeding, shaking), and a dedicated "Learning Mode" for educational use.
 
 🌟 Features
 Dynamic Emotions: Over 20 unique facial expressions that change every 10 seconds.
@@ -17,11 +17,9 @@ Learning Mode: Toggle between "Pet Mode" and "Learning Mode" to display randomiz
 Energy Saving: Nina automatically goes to sleep with a "Zzz" animation after 5 minutes of inactivity to save power.
 
 🛠 Hardware Requirements
-Controller: ESP32 (DevKit V1 or similar).
+Controller: CYD 2.8".
 
-Display: 2.4" or 2.8" ILI9341 TFT LCD with XPT2046 Touch Controller.
-
-Communication: SPI Protocol.
+Display: 2.8" ILI9341 TFT LCD with XPT2046 Touch Controller.
 
 ⚙️ Installation & Library Setup
 To compile this project, you will need the Arduino IDE and the following libraries:
